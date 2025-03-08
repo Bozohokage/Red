@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { Factory, ChartBar, LayoutDashboard, Package, Printer, Users } from 'lucide-react';
+import { ChartBar, LayoutDashboard, Package, Printer, Users } from 'lucide-react';
 
 const Sidebar = () => {
   return (
